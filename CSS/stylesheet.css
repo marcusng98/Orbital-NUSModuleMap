@@ -1,0 +1,86 @@
+/*********************Generic Styles*********************/
+
+
+/*********************Class Styles*********************/
+.FASSMajors {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+}
+
+.BizandAcc {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+}
+
+.CompMajors {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+}
+
+.Dentistry {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+}
+
+.SDE {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+}
+
+.FoE {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+}
+
+.Music {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+}
+
+.Science {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+}
+
+.threecol {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+}
+
+.twocol {
+  padding: 30;
+  align-content: center;
+  width: 1000px;
+  table-layout: fixed;
+}
+
+.even {
+  color: black;
+  background-color: #EF7C00;
+}
+
+.odd {
+  color: white;
+  background-color: #003D7C;
+}
+
+
+/*********************ID Styles*********************/
