@@ -1,0 +1,26 @@
+/*********************Class Styles*********************/
+
+.threecol {
+  padding: 30;
+  align-content: center;
+  width: 1500px;
+  table-layout: fixed;
+
+}
+
+.twocol {
+  padding: 30;
+  align-content: center;
+  width: 1000px;
+  table-layout: fixed;
+}
+
+.even {
+  color: black;
+  background-color: #EF7C00;
+}
+
+.odd {
+  color: white;
+  background-color: #003D7C;
+}
